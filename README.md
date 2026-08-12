@@ -4,15 +4,14 @@ An IoT-based smart irrigation system that automatically monitors soil moisture a
 
  Features
 
-- 🌿 Real-time soil moisture monitoring
-- 🌡️ Temperature and humidity sensing
-- 💧 Automatic water pump control using a relay
-- ⚡ ESP32-based embedded system
-- 🖥️ Simulated and tested using Wokwi
-- 🌍 Promotes water conservation and smart farming
+-  Real-time soil moisture monitoring
+-  Temperature and humidity sensing
+-  Automatic water pump control using a relay
+- ESP32-based embedded system
+-  Simulated and tested using Wokwi
+-  Promotes water conservation and smart farming
 
 Tech Stack
-
 - ESP32
 - Arduino IDE
 - Embedded C/C++
@@ -22,8 +21,6 @@ Tech Stack
 - Wokwi Simulator
 
 Project Structure
-
-
 JALSETU
 ├── Arduino_Code
 ├── circuit
@@ -52,22 +49,11 @@ pump on:-
 
  <img width="1917" height="1078" alt="pump off (2)" src="https://github.com/user-attachments/assets/3dacff5b-150b-4879-949f-1c58449bd7c3" />
 
-
-
-
-Add these images after uploading them to GitHub:
-
-- Simulation
-- Pump ON
-- Pump OFF
-
-🔮 Future Enhancements
-
+Future Enhancements
 - Weather API integration
 - Mobile app for remote monitoring
 - Cloud-based data logging
 - AI-based irrigation prediction
 
-👨‍💻 Author
-
+Author:
 NIDHI N DESAI
