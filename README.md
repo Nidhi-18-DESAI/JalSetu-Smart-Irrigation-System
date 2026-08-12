@@ -40,9 +40,15 @@ JALSETU
 4. The process repeats continuously.
 
  Screenshots
+ simulation:-
+ 
  <img width="1913" height="1078" alt="simulation" src="https://github.com/user-attachments/assets/26c80aab-01bf-40d5-b8b5-5a1b12533b27" />
 
+pump on:-
+
  <img width="1910" height="1078" alt="pump on (2)" src="https://github.com/user-attachments/assets/be91bc74-9b99-40fb-8fcb-c39a9b3862f5" />
+
+ pump off:- 
 
  <img width="1917" height="1078" alt="pump off (2)" src="https://github.com/user-attachments/assets/3dacff5b-150b-4879-949f-1c58449bd7c3" />
 
