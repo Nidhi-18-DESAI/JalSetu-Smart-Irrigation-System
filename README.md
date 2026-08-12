@@ -36,6 +36,12 @@ JALSETU
 3. Once the soil reaches the desired moisture level, the pump turns OFF.
 4. The process repeats continuously.
 
+ Live Simulation
+
+Run the project on Wokwi:
+
+https://wokwi.com/projects/458496102817420289
+
  Screenshots
  simulation:-
  
